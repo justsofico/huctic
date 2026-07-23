@@ -1,0 +1,3 @@
+ARTIFACTS_PER_EXHIBITION = 5
+
+DEFAULT_THEME = "Ancient Engineering"
